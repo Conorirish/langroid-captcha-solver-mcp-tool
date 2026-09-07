@@ -1,0 +1,10 @@
+{
+  "official_entity": "https://github.com/langroid/langroid",
+  "interface": "MCP ToolMessage adapter",
+  "capsolver_docs": [
+    "https://docs.capsolver.com/en/guide/what-is-capsolver/",
+    "https://docs.capsolver.com/en/guide/api-createtask/",
+    "https://docs.capsolver.com/en/guide/api-gettaskresult/"
+  ],
+  "checked_on": "2026-09-07"
+}

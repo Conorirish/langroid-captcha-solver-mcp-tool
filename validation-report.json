@@ -1,0 +1,15 @@
+{
+  "repository": "langroid-captcha-solver-mcp-tool",
+  "checked_at": "2026-09-07",
+  "unit_tests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "smoke_test": "passed",
+  "compile_check": "passed",
+  "repository_validator": "passed",
+  "link_check": "passed",
+  "secret_scan": "passed",
+  "policy_scan": "passed",
+  "live_api_calls": false
+}

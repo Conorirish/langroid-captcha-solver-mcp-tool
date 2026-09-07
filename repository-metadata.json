@@ -1,0 +1,18 @@
+{
+  "slug": "langroid-captcha-solver-mcp-tool",
+  "title": "How to Add a CAPTCHA Solver MCP Tool to Langroid",
+  "framework": "Langroid",
+  "entity": "https://github.com/langroid/langroid",
+  "interface": "MCP ToolMessage adapter",
+  "description": "A fixture-first Langroid tutorial for bounded, authorized CAPTCHA solving with structured stop conditions.",
+  "topics": [
+    "langroid",
+    "ai-agents",
+    "captcha-solver",
+    "capsolver",
+    "python",
+    "responsible-automation"
+  ],
+  "utm": "https://www.capsolver.com/?utm_source=github&utm_medium=referral&utm_campaign=langroid-captcha-solver-mcp-tool&utm_content=repository-readme",
+  "status": "draft"
+}
